@@ -728,4 +728,4 @@ def pilih_duper():
 	menu()
 
 if __name__ == '__main__':
-	Login()
+	login()
